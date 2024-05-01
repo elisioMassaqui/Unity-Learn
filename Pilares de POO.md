@@ -2,7 +2,7 @@
 
 A Programação Orientada a Objetos (POO) é um paradigma fundamental para estruturar e organizar código de maneira modular e reutilizável. Aqui estão os quatro principais pilares que sustentam a POO:
 
-A **abstração** é o processo de simplificação da complexidade, focando nos aspectos essenciais de um objeto ou sistema e ocultando detalhes não relevantes. Com a abstração, criamos classes que representam conceitos de forma clara, mantendo a complexidade interna encapsulada.
+## ✨ 1. Abstração é o processo de simplificação da complexidade, focando nos aspectos essenciais de um objeto ou sistema e ocultando detalhes não relevantes. Com a abstração, criamos classes que representam conceitos de forma clara, mantendo a complexidade interna encapsulada.
 
 ## 🔒 2. Encapsulamento
 O **encapsulamento** envolve restringir o acesso direto a componentes internos de um objeto para proteger a integridade dos dados. Isso é alcançado controlando a visibilidade através de modificadores como `private`, `protected`, ou `public`. O encapsulamento promove segurança e modularidade.
