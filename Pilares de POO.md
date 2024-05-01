@@ -23,7 +23,6 @@ Estes quatro pilares trabalham juntos para criar sistemas robustos, flexíveis e
 
 Este guia mostra exemplos dos quatro pilares da Programação Orientada a Objetos (POO) em C# no Unity. Cada seção demonstra um dos pilares: abstração, encapsulamento, herança e polimorfismo.
 
-## ✨ Abstração
 A abstração é o processo de simplificar a complexidade ao focar nos aspectos essenciais de uma classe, enquanto detalhes internos são ocultados.
 
 ```csharp
