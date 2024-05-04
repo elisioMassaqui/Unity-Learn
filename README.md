@@ -2,6 +2,11 @@
 
 ![1](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/Anota%C3%A7%C3%A3o%202024-05-04%20062308.png)
 
+Pathways:
+- [Unity Essentials](https://github.com/elisioMassaqui/Unity-Learn/blob/main/unity%20essentials.md)
+- [Júnior Programador](https://github.com/elisioMassaqui/Unity-Learn/blob/main/programador%20junior.md)
+- [Núcleo Creativo](https://github.com/elisioMassaqui/Unity-Learn/blob/main/creative%20core.md)
+
 Seja bem-vindo ao Unity Learn, a plataforma oficial de aprendizado da Unity! Se você quer criar jogos, simulações, experiências em realidade aumentada ou realidade virtual, este é o lugar para começar. Vamos explorar o que você pode encontrar por aqui. 🎮✨
 
 ## 🧐 O que é o Unity Learn?
