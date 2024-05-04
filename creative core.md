@@ -69,6 +69,12 @@ A escolha do pipeline de renderização certo depende das necessidades do seu pr
 Considere as necessidades do seu projeto, incluindo requisitos gráficos, desempenho esperado, e as plataformas alvo, antes de escolher o pipeline de renderização mais adequado.
 
 ## O que é renderização?
-
+-
 Renderização é o processo de pegar dados tridimensionais (3D) e usá-los para gerar uma imagem bidimensional (2D) para uma tela.
 ![1](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/render.png)
+
+Vamos decompô-lo ainda mais:
+No Unity, você pode posicionar modelos 3D, aplicar materiais a esses modelos e apontar uma câmera virtual para eles. Renderizar é capturar todos esses dados (geometria do objeto, posição, cores, iluminação e muito mais) e produzir uma imagem a partir da perspectiva de uma câmera.
+-
+[2](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/render%20more.png)
+
