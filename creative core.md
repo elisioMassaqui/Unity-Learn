@@ -71,3 +71,4 @@ Considere as necessidades do seu projeto, incluindo requisitos gráficos, desemp
 ## O que é renderização?
 
 Renderização é o processo de pegar dados tridimensionais (3D) e usá-los para gerar uma imagem bidimensional (2D) para uma tela.
+[1.](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/render.png)
