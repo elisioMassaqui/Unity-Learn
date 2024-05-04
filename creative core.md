@@ -79,7 +79,6 @@ No Unity, você pode posicionar modelos 3D, aplicar materiais a esses modelos e 
 ![2](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/render%20more.png)
 
 -
--
 
 ## O que são pipelines de renderização?
 
