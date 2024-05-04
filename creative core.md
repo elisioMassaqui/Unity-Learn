@@ -1,5 +1,7 @@
 # Missão: Primeiro Passo no Caminho do Núcleo Criativo
 
+![](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/Anota%C3%A7%C3%A3o%202024-05-04%20062821.png)
+
 Bem-vindo à sua jornada no Núcleo Criativo! Esta missão é o ponto de partida para o seu aprendizado e desenvolvimento de habilidades essenciais no uso do Unity. Aqui, você descobrirá os tópicos fundamentais, atividades práticas e habilidades que farão parte do seu caminho.
 
 ## Objetivos da Missão
