@@ -2,6 +2,8 @@
 
 Seja bem-vindo ao programa Unity para Programadores Júnior! Este programa é projetado para ajudá-lo a adquirir as habilidades fundamentais para programação no Unity, permitindo que você crie seus próprios jogos e experiências interativas. Se você está começando agora ou deseja aprimorar suas habilidades de programação no Unity, esta é a trilha ideal para você.
 
+![1](https://github.com/Robotgames-false/Unity-Learn-ajustes380/blob/main/Anota%C3%A7%C3%A3o%202024-05-04%20062711.png)
+
 ## Objetivos do Programa
 Durante o programa, você irá:
 - **Aprender as Bases da Programação em Unity**: Entender conceitos básicos de scripts, estruturas e lógica.
